@@ -17,7 +17,7 @@ npm install -D typescript
 Clone this repository to your local machine to access the workshop files, using the following command:
 
 ```sh
-git clone https://github.com/SebasRojasM1/typescriptTasks.git
+git clone -b workshop1 https://github.com/SebasRojasM1/typescriptTasks.git
 ```
 
 
